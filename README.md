@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 am JayMoh alias JayTech
+### 🌱 I’m currently doing Web development and design
 
 <!--
 **jaycode8/jaycode8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
