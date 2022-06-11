@@ -1,5 +1,8 @@
 # Hi there, am Jaymoh 👋
 
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jaycode8&show_icons=true&theme=radical" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
@@ -23,3 +26,7 @@
 <img align="left" alt="Ms Excell" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="left" alt="Ms Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
 <img alt="Ms Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
