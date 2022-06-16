@@ -1,6 +1,6 @@
 # Hi there, am Jaymoh 👋
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img width="80%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jaycode8&show_icons=true&theme=radical" />
@@ -15,7 +15,8 @@
 
 ## Frameworks
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="GSAP" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img align="left" alt="GSAP" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img alt="bootsrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ## ML/DS
 <img align="left" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
