@@ -8,6 +8,8 @@
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaycode8&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycode8&theme=blue-green" />
 
+
+
 ## Languages
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
