@@ -6,7 +6,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jaycode8&show_icons=true&theme=radical" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaycode8&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycode8&theme=blue-green" />
 
 
 
