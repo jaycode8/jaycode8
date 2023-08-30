@@ -7,7 +7,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jaycode8&show_icons=true&theme=radical" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaycode8&layout=compact"/>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=jaycode8&show_icons=true&theme=radical" />
 
 ## Languages
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
