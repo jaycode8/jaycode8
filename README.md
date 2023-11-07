@@ -1,5 +1,5 @@
 # Hi there, am Jaymoh 👋
-<a href="https://jamesmumo-cf8e5.web.app/"><strong>➥ portfolio</strong></a>
+<a href="https://jamesmumo.vercel.app/" target='_blank'><strong>➥ portfolio</strong></a>
 
 <img width="80%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
