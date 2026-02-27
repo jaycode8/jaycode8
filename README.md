@@ -10,34 +10,13 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=jaycode8&show_icons=true&theme=radical"/>
   <img width="51%" src="https://nirzak-streak-stats.vercel.app/?user=jaycode8&theme=radical&hide_border=false" />
+</div>
 
-<table>
-<tr>
-<td width="33%">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaycode8&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
-
-</td>
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaycode8&theme=transparent" />
-
-</td>
-
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaycode8&theme=transparent&utc_offset=5.5" />
-
-</td>
-
-</tr>
-</table>
-</p>
-
+<div align="center">
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaycode8&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00FF41&text_color=C9D1D9"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaycode8&theme=radical" />
 </div>
 
 
