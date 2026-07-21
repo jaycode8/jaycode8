@@ -1,6 +1,6 @@
 <!-- # **Hi there, am James 👋** -->
 <h1 align="center">Hi, I am <a href="https://jamesmumo.vercel.app/" target='_blank' style="color: #34d399;">jaycode</a>!<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" /></h1>
-<a href="https://jamesmumo.vercel.app/" target='_blank'><strong>➥ portfolio</strong></a>
+<a href="https://jaycode.surge.sh/" target='_blank'><strong>➥ portfolio</strong></a>
 <br/>
 
 <img width="50%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
