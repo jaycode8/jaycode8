@@ -1,60 +1,59 @@
-<!-- # **Hi there, am James 👋** -->
-<h1 align="center">Hi, I am <a href="https://jamesmumo.vercel.app/" target='_blank' style="color: #34d399;">jaycode</a>!<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" /></h1>
-<a href="https://jaycode.surge.sh/" target='_blank'><strong>➥ portfolio</strong></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:34d399&height=220&section=header&text=James%20Mumo&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Nairobi%2C%20Kenya&descSize=18&descAlignY=60" />
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=520&lines=Building+fast+and+scalable+web+apps;React+%7C+Node.js+%7C+Python+%7C+Django;Open+to+collaboration+and+new+roles" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<a href="https://jaycode.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-34d399?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/james-mumo"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=34d399" /></a>
+<a href="mailto:james.mumo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=34d399" /></a>
+
 <br/>
 
-<img width="50%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img src="https://komarev.com/ghpvc/?username=jaycode8&label=Profile+views&color=34d399&style=flat-square" />
 
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=jaycode8&show_icons=true&theme=radical"/>
-  <img width="51%" src="https://nirzak-streak-stats.vercel.app/?user=jaycode8&theme=radical&hide_border=false" />
-</div>
+<h2 align="center">⚡ About Me</h2>
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaycode8&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00FF41&text_color=C9D1D9"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaycode8&theme=radical" />
-</div>
-
-
-## 🎮 Stack
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,js,cpp,dart,html,css,bash" /> </br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind,bootstrap,jquery,opencv,fastapi,sklearn,selenium,prisma,sequelize" /> </br>
-<img src="https://skillicons.dev/icons?i=vite,vercel,netlify,docker,git,github,npm,neovim,vscode,firebase,cloudflare,anaconda,postman," /> </br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" /></br>
-<img src="https://skillicons.dev/icons?i=linux" />
-</div>
-
+<p align="center">
+I'm a developer who enjoys turning ideas into clean, working products.<br/>
+I work across the stack, from interfaces in React to APIs in Node.js, Django and FastAPI.
+</p>
 
 ---
 
-## 🚀 GitHub Analytics Dashboard
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaycode8&theme=tokyonight" width="100%" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=js,rust&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=bash,react,html&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=css,tailwind,vite,nodejs&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=express,django,fastapi,flask,postgres&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,kafka,git,github&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,vercel,firebase,postman&theme=dark" />
+
+</div>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=jaycode8&show_icons=true&theme=tokyonight&hide_border=true&title_color=34d399&icon_color=34d399&bg_color=0f172a" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaycode8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=34d399&bg_color=0f172a" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaycode8&theme=tokyonight" width="95%" />
+</div>
 
 ---
 
-## 📱 Connect & Collaborate
-
 <div align="center">
-<a href="mailto:james.mumo.dev@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-james.mumo.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://jamesmumo.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/james-mumo">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/jaycode8">
-<img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<i>"Let's build something great together."</i>
 </div>
 
-### 😂 Here is a random joke if you get it just smile as you keep scrolling!                          
-<img src="https://readme-jokes.vercel.app/api" />    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:0f172a&height=120&section=footer" />
